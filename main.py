@@ -16,7 +16,7 @@ def load_data():
             ],
             "shop": {
                 "products": [
-                    {"name": "Doll", "price": 15.0},
+                    {"name": "Car", "price": 15.0},
                     {"name": "Ball", "price": 10.0},
                     {"name": "Cookies", "price": 5.0}
                 ],

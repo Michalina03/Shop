@@ -24,7 +24,7 @@
     "shop": {
         "products": [
             {
-                "name": "Doll",
+                "name": "Car",
                 "price": 15.0
             },
             {
@@ -36,6 +36,6 @@
                 "price": 5.0
             }
         ],
-        "balance": 100.0
+        "balance": 115.0
     }
 }

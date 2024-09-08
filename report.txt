@@ -1,6 +1,6 @@
 Raport firmy
 ====================
-U¿ytkownicy:
+Uzytkownicy:
 - admin (Admin)
 - mike (Employee)
 - anna (Employee)
@@ -11,4 +11,4 @@ Produkty:
 - Ball ($10.0)
 - Cookies ($5.0)
 
-Stan finansów: $100.0
+Stan finansow: $100.0
